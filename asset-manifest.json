@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/advice-project-react/static/css/main.d737d9f5.css",
+    "main.js": "/advice-project-react/static/js/main.907bf0e2.js",
+    "static/media/bike.jpg": "/advice-project-react/static/media/bike.abb1dd5988a51f80460f.jpg",
+    "index.html": "/advice-project-react/index.html",
+    "main.d737d9f5.css.map": "/advice-project-react/static/css/main.d737d9f5.css.map",
+    "main.907bf0e2.js.map": "/advice-project-react/static/js/main.907bf0e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d737d9f5.css",
+    "static/js/main.907bf0e2.js"
+  ]
+}
